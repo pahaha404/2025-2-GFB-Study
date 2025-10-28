@@ -1,16 +1,49 @@
-# React + Vite
+# 2025-2 KOSS Git-Frontend-Backend (GFB) 스터디
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 스터디 소개
+2025학년도 2학기 KOSS에서 진행하는 **Git-Frontend-Backend (GFB) 스터디**입니다.  
+버전 관리 도구인 Git을 시작으로, 웹 개발의 핵심인 Frontend와 Backend 기초를 함께 학습합니다.  
+실습 중심으로 진행하여 개인 프로젝트와 팀 프로젝트 모두에 활용할 수 있는 실력을 기르는 것을 목표로 합니다.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 조직 링크
+- 1팀: ___ (팀장: 황연주)
+- 2팀: ___ (팀장: 하인우)
+- 3팀: ___ (팀장: 서다솜)
+---
 
-## React Compiler
+## 📅 진행 일정 (추후 변경 가능)
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 1주차
+- 오리엔테이션
+- 팀 소개
+- Git
+- 개발 환경 세팅
 
-## Expanding the ESLint configuration
+### 2주차
+- React 기초
+- 팀 프로젝트
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 3주차
+- React 기초
+- 팀 프로젝트
+
+### 4주차
+- React 기초
+- FastAPI 기초
+- 팀 프로젝트
+
+### 5주차
+- FastAPI 기초
+- 팀 프로젝트
+
+### 6주차
+- FastAPI 기초
+- 팀 프로젝트
+
+### 7주차
+- 팀 프로젝트 마무리
+- 발표
+
+---
